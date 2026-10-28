@@ -1,0 +1,6 @@
+[4x8  (video 4x4)] ADDR_W=4 DATA_W=8 (16 posiciones): errores = 0
+[32x16] ADDR_W=5 DATA_W=16 (32 posiciones): errores = 0
+[64x1] ADDR_W=6 DATA_W=1 (64 posiciones): errores = 0
+[256x8 (video)] ADDR_W=8 DATA_W=8 (256 posiciones): errores = 0
+Errores: 0  (configuraciones: 4x8, 256x8, 32x16, 64x1)
+tb_ram_top.sv:145: $finish called at 29375000 (1ps)

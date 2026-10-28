@@ -1,0 +1,21 @@
+Chronologic VCS simulator copyright 1991-2025
+Contains Synopsys proprietary information.
+Compiler version X-2025.06-SP2-6_Full64; Runtime version X-2025.06-SP2-6_Full64;  Oct 27 18:22 2026
+*Verdi* Loading libsscore_vcs202506.so
+FSDB Dumper for VCS, Release Verdi_Y-2026.03-SP2, Linux x86_64/64bit, 08/29/2026
+(C) 1996 - 2026 by Synopsys, Inc.
+*Verdi* FSDB WARNING: The FSDB file already exists. Overwriting the FSDB file may crash the programs that are using this file.
+*Verdi* : Create FSDB file 'dump_mem.fsdb'
+*Verdi* : Begin traversing the scope (tb_ram_top.c0), layer (0).
+*Verdi* : End of traversing.
+[4x8  (video 4x4)] ADDR_W=4 DATA_W=8 (16 posiciones): errores = 0
+[32x16] ADDR_W=5 DATA_W=16 (32 posiciones): errores = 0
+[64x1] ADDR_W=6 DATA_W=1 (64 posiciones): errores = 0
+[256x8 (video)] ADDR_W=8 DATA_W=8 (256 posiciones): errores = 0
+Errores: 0  (configuraciones: 4x8, 256x8, 32x16, 64x1)
+$finish called from file "tb_ram_top.sv", line 145.
+$finish at simulation time             29375000
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 29375000 ps
+CPU Time:      1.620 seconds;       Data structure size:   2.3Mb
+Tue Oct 27 18:22:11 2026

@@ -1,0 +1,2 @@
+Errores: 0  (latch AND-OR, gated latch, registro de 8 bits)
+tb_latches.sv:61: $finish called at 16000 (1ps)
